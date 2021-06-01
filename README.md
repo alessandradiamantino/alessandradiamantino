@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Alessandra Diamantino!
+## Oie! Eu sou a Alessandra Diamantino!
  <div>
   <a href="https://github.com/alessandradiamantino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandradiamantino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
