@@ -1,5 +1,6 @@
 ## Oie! Eu sou a Alessandra Diamantino! 👩🏻‍💻
-<h4>Gosto muito de tecnologia,hardware, Banco de Dados e front-end 💖</h4>
+<h4>Gosto muito de tecnologia,hardware, Banco de Dados e Front-End, sou estudante de Sistemas de Informação e estou no 6º período! 💖</h4>
+<h5> Faço parte da EJ da minha universidade, a oneBit</h5>
  <div>
   <a href="https://github.com/alessandradiamantino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandradiamantino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
