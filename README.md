@@ -12,7 +12,7 @@
   <img align="center" alt="Ale-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ale-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align = "right" alt="Ale-gif" src="https://i.pinimg.com/originals/4f/60/52/4f60523c8a2cd1821642d23548afa68e.gif" width="200" height="200" />
+ <img align = "right" alt="Ale-gif" src="https://i.pinimg.com/originals/4f/60/52/4f60523c8a2cd1821642d23548afa68e.gif" width="200" height="230" />
 </div>
 
   
