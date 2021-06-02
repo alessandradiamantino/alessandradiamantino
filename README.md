@@ -15,7 +15,7 @@
 
 
 </div>
- <img src="lo.png" width="250px"></a>
+ <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F530791506074799589%2F&psig=AOvVaw1qQHRidpU40TTM8CwoavVU&ust=1622761129099000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDo9reG-vACFQAAAAAdAAAAABAD" width="250px"></a>
   
   ## Minhas redes sociais ✨
  
