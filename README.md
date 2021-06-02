@@ -1,5 +1,5 @@
 ## Oie! Eu sou a Alessandra Diamantino! 👩🏻‍💻
-<h4>Gosto muito de tecnologia,hardware, Banco de Dados e Front-End, sou estudante de Sistemas de Informação e estou no 6º período! 💖</h4>
+<h4>Gosto muito de hardware, Banco de Dados e Front-End, sou estudante de Sistemas de Informação e estou no 6º período! 💖</h4>
 <h5> Faço parte da EJ da minha universidade, a OneBit Jr.</h5>
  <div>
   <a href="https://github.com/alessandradiamantino">
@@ -12,7 +12,7 @@
   <img align="center" alt="Ale-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ale-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Ale-merida" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/a.gif"">
+  <img align="right" alt="Ale-merida" src="B:\a.gif"">
 
 
 </div>
