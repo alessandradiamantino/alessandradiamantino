@@ -1,5 +1,5 @@
 ## Oie! Eu sou a Alessandra Diamantino! 👩🏻‍💻
-#Gosto muito de tecnologia, gosto muito de hardware, Banco de Dados e front-end 💖
+<h2>Gosto muito de tecnologia,hardware, Banco de Dados e front-end 💖</h2>
  <div>
   <a href="https://github.com/alessandradiamantino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandradiamantino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
