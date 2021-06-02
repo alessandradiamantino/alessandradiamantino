@@ -12,8 +12,6 @@
   <img align="center" alt="Ale-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ale-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Ale-merida" src="B:\a.gif"">
-
 
 </div>
 
@@ -24,7 +22,8 @@
   <a href="https://instagram.com/alessandradiamantino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: alessandradiamantino36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alessandra-diamantino-85b25a191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+   ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
   ![Snake animation](https://github.com/alessandradiamantino/alessandradiamantino/blob/output/github-contribution-grid-snake.svg)
  
 </div>
