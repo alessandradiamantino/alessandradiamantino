@@ -1,4 +1,4 @@
-## Oie! Eu sou a Alessandra Diamantino! 👩🏻‍💻
+## <h1><center>Oie! Eu sou a Alessandra Diamantino!</center><h1> 👩🏻‍💻
 <h4>Gosto muito de hardware, Banco de Dados e Front-End, sou estudante de Sistemas de Informação e estou no 5º período! 💖</h4>
 <h5> Faço parte da EJ da minha universidade, a OneBit Jr. como assessora de Marketing.</h5>
  <div>
