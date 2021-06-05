@@ -1,6 +1,6 @@
 ## Oie! Eu sou a Alessandra Diamantino! 👩🏻‍💻
 <h4>Gosto muito de hardware, Banco de Dados e Front-End, sou estudante de Sistemas de Informação e estou no 5º período! 💖</h4>
-<h5> Faço parte da EJ da minha universidade, a OneBit Jr.</h5>
+<h5> Faço parte da EJ da minha universidade, a OneBit Jr. como assessora de Marketing.</h5>
  <div>
   <a href="https://github.com/alessandradiamantino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandradiamantino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,7 @@
 </div>
 
   
-  ## Minhas redes sociais ✨
+  ##✨ Minhas redes sociais ✨
  
 <div> 
   <a href="https://instagram.com/alessandradiamantino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
