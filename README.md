@@ -1,5 +1,5 @@
 ## <h1>Oie! Eu sou a Alessandra Diamantino! 👩🏻‍💻<h1>
-<h4>Gosto muito de hardware, Banco de Dados e Front-End, sou estudante de Sistemas de Informação e estou no 5º período! 💖</h4>
+<h4>Gosto muito de hardware, Banco de Dados, UI/UX design e desenvolvimento front-end. Sou estudante de Sistemas de Informação e estou no 6º período! 💖</h4>
 <h4> Faço parte da EJ da minha universidade, a OneBit Jr. como Diretora de Marketing.</h4>
  <h1>Minhas estatísticas no GitHub 🐱‍💻</h1>
  <div>
